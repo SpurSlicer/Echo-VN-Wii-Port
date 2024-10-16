@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="0">
+  <name>Echo VN</name>
+  <coder>SpurSlicer</coder>
+  <version>0.0.0</version>
+  <release_date>07/14/24</release_date>
+  <short_description>Port of Echo VN to the Wii.</short_description> 
+  <long_description>This is a structuralized port of renpy scripting to the wii using C.</long_description>
+</app>
